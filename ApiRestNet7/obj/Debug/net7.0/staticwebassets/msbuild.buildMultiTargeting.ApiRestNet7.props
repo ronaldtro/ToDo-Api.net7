@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ApiRestNet7.props" />
+</Project>
